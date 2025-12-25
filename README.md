@@ -73,9 +73,9 @@ git clone https://github.com/LainuxOS/accela.git
 cd accela
 make
 sudo make install
-
+```
 Usage:
-bash
+```bash
 accela run yourscript.p
 ```
 
