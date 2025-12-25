@@ -97,4 +97,3 @@ This project is open-source under the **MIT License**.
 *"Present Day... Present Time... Hahaha!"*
 
 **Let's all love Lain.**
-```
